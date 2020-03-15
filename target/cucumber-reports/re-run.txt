@@ -1,0 +1,2 @@
+file:src/main/resources/featureFiles/PageClass2.feature:9:10:11
+file:src/main/resources/featureFiles/PageClass.feature:3:16:17:18
